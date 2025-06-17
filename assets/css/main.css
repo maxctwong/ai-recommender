@@ -3007,6 +3007,9 @@ input, select, textarea {
 				padding: 6em 3em 3em 3em;
 				width: 30%;
 			}
+				#header .icons a {
+					color: rgba(255, 255, 255, 0.4);
+				}
 
 				#header h1 {
 					font-size: 1.25em;
@@ -3071,7 +3074,9 @@ input, select, textarea {
 				width: 100%;
 				display: block;
 			}
-
+				#header .icons a {
+					color: rgba(255, 255, 255, 0.4);
+				}
 				#header h1 {
 					font-size: 1.75em;
 				}
@@ -3162,7 +3167,9 @@ input, select, textarea {
 				}
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				padding: 2.25em 1.5em;
 			}
@@ -3206,7 +3213,9 @@ input, select, textarea {
 	@media screen and (max-width: 480px) {
 
 		/* Header */
-
+			#header .icons a {
+				color: rgba(255, 255, 255, 0.4);
+			}
 			#header {
 				padding: 4.5em 1.5em;
 			}
