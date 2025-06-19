@@ -536,6 +536,9 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 5em;
 				}
+		.work-item {
+			height: 100vh;
+		}
 
 		@media screen and (max-width: 1800px) {
 
@@ -779,7 +782,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 5em;
 						}
-
+			.work-item {
+				height: 100vh;
+			}
 		}
 
 		@media screen and (max-width: 1280px) {
@@ -1024,6 +1029,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 4em;
 						}
+			.work-item {
+				height: 100vh;
+			}
 
 		}
 
@@ -1269,6 +1277,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 4em;
 						}
+			.work-item {
+				height: 100vh;
+			}
 
 		}
 
@@ -1514,6 +1525,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
+			.work-item {
+				height: 100vh;
+			}
 
 		}
 
@@ -1759,6 +1773,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 3em;
 						}
+			.work-item {
+				height: 100vh;
+			}
 
 		}
 
